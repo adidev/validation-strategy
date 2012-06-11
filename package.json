@@ -1,0 +1,19 @@
+{
+  "author": "Aditya Kulkarni <aditya.surfer@gmail.com>",
+  "name": "validation-strategy",
+  "description": "Create a single point of reference for validation. Apply it using css classes.",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-node": ">=1.0.26",
+    "http-server": ">=0.4.1",
+    "coffee-script: ">=1.3.3"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
